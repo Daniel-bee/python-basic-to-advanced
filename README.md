@@ -7,3 +7,4 @@
 - Python Loops
 - Python Functions & Karel
 - Hangman game
+- Function Parameters & Caesar Cipher
